@@ -1,0 +1,25 @@
+.darkbg {
+  background-color: gray;
+  font-style: normal;
+  height: 400px;
+  width: 60%;
+  text-align: center;
+}
+
+div {
+  align-content: center;
+
+}
+
+header {
+  align-items: center;
+  background-color: green;
+}
+
+td {
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  border: 3px solid black;
+  font-size: 100px;
+}
